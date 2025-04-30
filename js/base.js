@@ -36,7 +36,7 @@ if (number > 10 && number < 20) {
 
 
 let name = "Анна";
-let email = "anna@gmail.com";
+let email = "anna@.";
 let password = "chump1488";
 
 if (name.length >= 3 && email.includes("@") && email.includes(".") && password.length >= 6) {
